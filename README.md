@@ -35,6 +35,8 @@ https://www.youtube.com/watch?v=c867FlzxZ9Y
 
 https://www.youtube.com/watch?v=M_pkidxeGMY
 
+https://www.youtube.com/watch?v=M_pkidxeGMY&t=1s
+
 https://en.wikipedia.org/wiki/Elementary_cellular_automaton
 
 https://www.wolframscience.com/nks/
