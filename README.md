@@ -1,5 +1,7 @@
 # 2024IoS_LUT
 
+https://nardelli-lut.gitbook.io/introduction-to-iot-based-systems/
+
 http://networksciencebook.com/chapter/1
 
 **week1**
