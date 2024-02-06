@@ -53,3 +53,10 @@ https://en.wikipedia.org/wiki/Queueing_theory
 Reference 2  
 http://networksciencebook.com/  
 This is the on-line version of the book Network Science. Reading: Sec. 2.3 and Ch. 3 to solve the weekly assignment.
+
+
+
+**week6**
+
+
+https://www.youtube.com/watch?v=T50RbGZv-gw&list=PLnC5h3PY-znxMsG0TRYGOyrnEO-QhVwLb&index=1
