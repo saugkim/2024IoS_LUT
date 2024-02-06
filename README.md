@@ -33,6 +33,8 @@ https://www.youtube.com/watch?v=c867FlzxZ9Y
 
 **week4**  
 
+https://mathworld.wolfram.com/ElementaryCellularAutomaton.html  
+
 https://www.youtube.com/watch?v=M_pkidxeGMY
 
 https://www.youtube.com/watch?v=M_pkidxeGMY&t=1s
