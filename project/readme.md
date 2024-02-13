@@ -31,5 +31,6 @@ smart farming
 Iot Based Garden Monitoring System
 To cite this article: M Sambath et al 2019 J. Phys.: Conf. Ser. 1362 012069
 
+The soil NPK sensor is suitable for detecting the content of nitrogen, phosphorus, and potassium in the soil. It helps in determining the fertility of the soil thereby facilitating the systematic assessment of the soil condition. The sensor can be buried in the soil for a long time.
 
-
+https://how2electronics.com/measure-soil-nutrient-using-arduino-soil-npk-sensor/#:~:text=The%20soil%20NPK%20sensor%20is,soil%20for%20a%20long%20time.
