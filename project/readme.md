@@ -40,6 +40,7 @@ Using this Soil NPK Sensor, you can make your own Arduino Soil NPK Meter or any 
 The NPK Sensor has 3 different inquiry frame for reading the value of Nitrogen (N), Phosphorous (P) & Potassium (K). The inquiry frame is provided along with the instruction manual. For the NPK data the following individual inquiry frameworks:
 
 
+https://iopscience.iop.org/article/10.1088/1742-6596/1362/1/012069/meta
 
 ```
 Automatic watering
