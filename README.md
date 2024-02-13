@@ -60,3 +60,24 @@ This is the on-line version of the book Network Science. Reading: Sec. 2.3 and C
 
 
 https://www.youtube.com/watch?v=T50RbGZv-gw&list=PLnC5h3PY-znxMsG0TRYGOyrnEO-QhVwLb&index=1
+
+
+
+**additional materials**
+
+Nardelli, Pedro HJ. Cyber-physical Systems: Theory, Methodology, and Applications. John Wiley & Sons, 2022. [Access with LUT account]
+
+A. Narayanan et al., "Key Advances in Pervasive Edge Computing for Industrial Internet of Things in 5G and Beyond," in IEEE Access, doi: 10.1109/ACCESS.2020.3037717.  
+https://fireman-project.eu/attachments/article/23/09257390.pdf
+
+M. Ullah et al., "IoT Protocol Selection for Smart Grid Applications: Merging Qualitative and Quantitative Metrics," 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO), Opatija, Croatia, 2020, pp. 993-998, doi: 10.23919/MIPRO48935.2020.9245238.   
+https://fireman-project.eu/attachments/article/23/Facilitating_smart_grid_using_IoT_application_layer_protocols(8).pdf
+
+
+M. Ullah et al., "Providing Facilities in Health Care via Brain-Computer Interface and Internet of Things," 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO), Opatija, Croatia, 2020, pp. 971-976, doi: 10.23919/MIPRO48935.2020.9245382.   
+https://fireman-project.eu/attachments/article/23/Providing_facilities_in_health_care_using_the_combination_of_Brain_computer_interface_and_Internet_of_Things(11).pdf
+
+M. Ullah, P. J. Nardelli, A. Wolff and K. Smolander, "Twenty-one key factors to choose an IoT platform: Theoretical framework and its applications," in IEEE Internet of Things Journal, June 2020.  
+https://fireman-project.eu/attachments/article/18/2004.04924.pdf
+
+
