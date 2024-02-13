@@ -44,3 +44,12 @@ Perfect amount of nutrients and oxygen at root level
 Grow 365 days a year
 Companion app to become a plant expert
 ```
+
+```
+soil humidity (water level)
+soil nutrients
+soil oxygen at root level
+measuring light
+```
+
+automation of light and water 
