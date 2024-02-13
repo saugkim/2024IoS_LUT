@@ -36,3 +36,11 @@ The soil NPK sensor is suitable for detecting the content of nitrogen, phosphoru
 https://how2electronics.com/measure-soil-nutrient-using-arduino-soil-npk-sensor/#:~:text=The%20soil%20NPK%20sensor%20is,soil%20for%20a%20long%20time.
 
 Using this Soil NPK Sensor, you can make your own Arduino Soil NPK Meter or any Cloud IoT Based Soil Nutrient Content Monitoring System.
+
+```
+Automatic watering
+Perfect amount of light thanks to pro-grow lights
+Perfect amount of nutrients and oxygen at root level
+Grow 365 days a year
+Companion app to become a plant expert
+```
