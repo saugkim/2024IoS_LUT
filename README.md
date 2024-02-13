@@ -81,3 +81,9 @@ M. Ullah, P. J. Nardelli, A. Wolff and K. Smolander, "Twenty-one key factors to 
 https://fireman-project.eu/attachments/article/18/2004.04924.pdf
 
 
+
+IoT Full Course - Learn IoT In 4 Hours | Internet Of Things | IoT Tutorial For Beginners | Edureka  
+https://www.youtube.com/watch?v=h0gWfVCSGQQ
+
+Open data portal (Helsinki region)  
+https://hri.fi/en_gb/
