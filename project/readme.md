@@ -54,7 +54,10 @@ Companion app to become a plant expert
 soil humidity (water level)
 soil nutrients
 soil oxygen at root level
-measuring light
+- measuring light
+air temperature - weather
+
 ```
 
+artificial lighting and automatic watering system.
 automation of light and water 
