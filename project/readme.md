@@ -50,14 +50,21 @@ Grow 365 days a year
 Companion app to become a plant expert
 ```
 
+**Air sensors**  air signal  
 ```
-soil humidity (water level)
-soil nutrients
-soil oxygen at root level
-- measuring light
+light sensor
+humidity sensor
 air temperature - weather
+```
+
+**Soil sensors**  soil signal  
+```
+fertilizing level
+moisture level 
+oxygen at root level
 
 ```
 
-artificial lighting and automatic watering system.
+artificial lighting and automatic watering system.  
+
 automation of light and water 
