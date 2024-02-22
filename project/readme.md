@@ -76,7 +76,7 @@ Alarm
 
 **Outputs**
 ```
-LED lighting
+LED lighting, artificial light
 Fertilizing
 Watering
 ```
