@@ -59,7 +59,11 @@ air temperature - weather
 
 **Soil sensors**  soil signal inputs 
 ```
-fertilizing level
+fertilizing level (NPK sensor)
+  Nitrogen (N)
+  Phosphorous (P)
+  Potassium (K)
+
 moisture level 
 oxygen at root level
 
